@@ -2,3 +2,6 @@
 'oh the places you'll go'
 
 ted and alice add a sentence too 
+
+
+This is Bob typing stuff with Carol attempting a second merge conflict with Alice and Ted.
